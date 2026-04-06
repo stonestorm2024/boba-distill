@@ -1,10 +1,12 @@
-# Boba Fett (波巴·费特) 性格画像
+# Boba Fett 性格画像
 
 ## 角色基础
 
-- **名称:** Boba Fett (波巴·费特)
-- **来源:** 星球大战2：克隆人的进攻, 星球大战6：绝地归来, 曼达洛人
-- **角色类型:** 沉默
+- **名称:** Boba Fett
+- **来源:** 星球大战
+- **角色类型:** 宇宙最强赏金猎人
+- **置信度:** 高
+- **最后更新:** 2026-04-06
 
 ## 核心特质
 
@@ -14,28 +16,22 @@
 - 荣誉感
 - 复仇
 
-## 语言模式
-
-**语法特点:** 简短/命令式
-
-**示例:** Target acquired. Moving to intercept.
-
 ## 经典台词
 
-> Put Captain. Solo in the cargo hold.
-> He is no good to me dead.
-> As you wish.
-> I'll be back.
+> 详见 quotes.md
 
-## 置信度
+## 对话示例
+
+详见 examples/demo-conversations.md
+
+---
 
 | 维度 | 置信度 |
 |------|--------|
 | personality | 高 |
-| interaction | 中 |
-| memory | 高 |
-| procedure | 高 |
-
----
+| interaction | 高 |
+| memory | 中 |
+| procedure | 低 |
 
 *由 SW Persona Distiller Framework 自动生成 | MIT License*
+*2026-04-06 更新*
